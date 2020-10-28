@@ -13,7 +13,7 @@ Agency for Science Technology and Research
 </div>
 
 **Location**: Singapore\
-**Period**: March 20 to Present (Ongoing)\
+**Period**: March 2020 to Present (Ongoing)\
 *Visiting Researcher, Institute for Infocomm Research (I2R), Machine Intellection*
 * Developing a reinforcement learning algorithm to perform active learning using Pytorch to address sparsely labelled datasets.
 * Worked on a geospatial point of interest and taxi trajectory dataset to perform land use classification using active learning algorithms and interpretable machine learning.
@@ -27,7 +27,7 @@ Deloitte Digital
 </div>
 
 **Location**: Singapore\
-**Period**: February 17 to July 17 (6 months)\
+**Period**: February 2017 to July 2017 (6 months)\
 *Intern, Project Management & Change Management, Management Consulting*
 * Worked on a major digital transformation project with one of Asia’s largest real estate companies.
 * Maintained the project’s RAID log, Decision log, and Action log during his stint in the PMO team.
@@ -58,7 +58,7 @@ Singapore Airlines Engineering Company
 </div>
 
 **Location**: Singapore\
-**Period**: May 2015 to Jul 2015 (3 months)\
+**Period**: May 2015 to July 2015 (3 months)\
 *Intern, Engineering*
 * Co-developed the proof of concept of a troubleshooting decision support system to supplement the current maintenance process by utilising historical maintenance data.
 * Co-developed an Advanced Structural Repair Filter using VBA which resulted in a 90% increase in operational efficiency.
@@ -74,7 +74,7 @@ Toronto Dominion Securities
 </div>
 
 **Location**: Singapore\
-**Period**: Jan 2015 to Apr 2015 (4 months)\
+**Period**: January 2015 to April 2015 (4 months)\
 *Intern, Client Onboarding, Operations*
 * Assessed client risk levels based on jurisdiction risk, product risk, and business risk
 * Performed SDD, CDD, and EDD depending on the clients’ overall risk level
