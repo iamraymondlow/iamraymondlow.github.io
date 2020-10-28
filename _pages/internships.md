@@ -6,7 +6,7 @@ permalink: /internships/
 ---
 
 <div>
-<img align="left" width="50" height="50" src="/assets/images/astar.png"> 
+<img align="left" width="50" height="50" src="/assets/images/astar.png" style="margin-right: 10px"> 
 <h2>
 Agency for Science Technology and Research
 </h2> 
@@ -20,7 +20,7 @@ Agency for Science Technology and Research
 
 
 <div>
-<img align="left" width="50" height="50" src="/assets/images/deloitte.png"> 
+<img align="left" width="50" height="50" src="/assets/images/deloitte.png" style="margin-right: 10px; margin-top: 5px"> 
 <h2>
 Deloitte Digital
 </h2> 
@@ -35,7 +35,7 @@ Deloitte Digital
 
 
 <div>
-<img align="left" width="50" height="50" src="/assets/images/kpmg.jpg"> 
+<img align="left" width="50" height="50" src="/assets/images/kpmg.jpg" style="margin-right: 10px"> 
 <h2>
 KPMG
 </h2> 
@@ -51,7 +51,7 @@ KPMG
 
 
 <div>
-<img align="left" width="50" height="50" src="/assets/images/siaec.jpg"> 
+<img align="left" width="50" height="50" src="/assets/images/siaec.jpg" style="margin-right: 10px"> 
 <h2>
 Singapore Airlines Engineering Company
 </h2> 
@@ -67,7 +67,7 @@ Singapore Airlines Engineering Company
 
 
 <div>
-<img align="left" width="50" height="50" src="/assets/images/td.png"> 
+<img align="left" width="50" height="50" src="/assets/images/td.png" style="margin-right: 10px"> 
 <h2>
 Toronto Dominion Securities
 </h2> 
