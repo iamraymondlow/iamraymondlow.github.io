@@ -4,7 +4,7 @@ author_profile: true
 title: "About"
 permalink: /about/
 header:
-    image: "/assets/images/profile_pic.jpg" 
+    image: "/assets/images/lake.jpg" 
 ---
 
 My primary research focuses on applying active learning, data engineering, data fusion, deep reinforcement learning, 
