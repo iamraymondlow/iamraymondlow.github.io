@@ -94,17 +94,17 @@ analytics:
 # Site Author
 author:
   name             : "Raymond Low"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/profile_pic.jpg"
   bio              : "My Online Resume"
   location         : "Singapore"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "raymond_low@mymail.sutd.edu.sg"
+       url: "raymond_low@mymail.sutd.edu.sg"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+#       url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -113,7 +113,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/iamraymondlow"
+       url: "https://github.com/iamraymondlow"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -129,7 +129,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/iamraymondlow"
+       url: "https://github.com/iamraymondlow"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
