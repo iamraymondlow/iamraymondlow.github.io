@@ -5,9 +5,13 @@ title: "Internship/Attachments"
 permalink: /internships/
 ---
 
-<img align="left" width="50" height="50" src="/assets/images/astar.png">
+<div>
+<img align="left" width="50" height="50" src="/assets/images/astar.png"> 
+<h2>
+Agency for Science Technology and Research
+</h2> 
+</div>
 
-## Agency for Science Technology and Research
 **Location**: Singapore\
 **Period**: March 20 to Present (Ongoing)\
 *Visiting Researcher, Institute for Infocomm Research (I2R), Machine Intellection*
@@ -15,9 +19,13 @@ permalink: /internships/
 * Worked on a geospatial point of interest and taxi trajectory dataset to perform land use classification using active learning algorithms and interpretable machine learning.
 
 
-<img align="left" width="50" height="50" src="/assets/images/deloitte.png">
+<div>
+<img align="left" width="50" height="50" src="/assets/images/deloitte.png"> 
+<h2>
+Deloitte Digital
+</h2> 
+</div>
 
-## Deloitte Digital
 **Location**: Singapore\
 **Period**: February 17 to July 17 (6 months)\
 *Intern, Project Management & Change Management, Management Consulting*
@@ -26,9 +34,13 @@ permalink: /internships/
 * Facilitated daily stand-up sessions between project team and the client’s PMO team.
 
 
-<img align="left" width="50" height="50" src="/assets/images/kpmg.jpg">
-  
-## KPMG
+<div>
+<img align="left" width="50" height="50" src="/assets/images/kpmg.jpg"> 
+<h2>
+KPMG
+</h2> 
+</div>
+
 **Location**: Singapore\
 **Period**: May 2016 to July 2016 (3 months)\
 *Intern, Enterprise Risk Management*
@@ -37,10 +49,14 @@ permalink: /internships/
 * Led the setup of the Microsoft SharePoint site to serve as a collaboration tool within the department and developed a SOP in maintaining the site.
 * Acquired a strong understanding of the various Risk Management principles and standards (ISO 31000, COSO Framework). 
 
-  
-<img align="left" width="50" height="50" src="/assets/images/siaec.jpg">
-  
-## Singapore Airlines Engineering Company
+
+<div>
+<img align="left" width="50" height="50" src="/assets/images/siaec.jpg"> 
+<h2>
+Singapore Airlines Engineering Company
+</h2> 
+</div>
+
 **Location**: Singapore\
 **Period**: May 2015 to Jul 2015 (3 months)\
 *Intern, Engineering*
@@ -50,9 +66,13 @@ permalink: /internships/
 * Acquired an understanding of the inner workings of a MRO from multiple perspectives.
 
 
-<img align="left" width="50" height="50" src="/assets/images/td.png">
+<div>
+<img align="left" width="50" height="50" src="/assets/images/td.png"> 
+<h2>
+Toronto Dominion Securities
+</h2> 
+</div>
 
-## Toronto Dominion Securities
 **Location**: Singapore\
 **Period**: Jan 2015 to Apr 2015 (4 months)\
 *Intern, Client Onboarding, Operations*
