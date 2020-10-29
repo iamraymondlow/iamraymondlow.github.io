@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Raymond's Personal Website"
+title                    : "Low Ching Nam Raymond"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Raymond Low"
-description              : "My Online Resume"
+description              : "I am a fourth-year PhD candidate from the Singapore University of Technology and Design. I am currently looking for a Machine Learning/Data Science internship for 2021. If you like what you see, please feel free to reach out to me via my email provided below."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -99,6 +99,10 @@ author:
   location         : "Singapore"
   email            : "raymond_low@mymail.sutd.edu.sg"
   github           : "iamraymondlow"
+  linkedin         : "iamraymondlow"
+  researchgate     : "https://www.researchgate.net/profile/Raymond_Low2"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=QfL2OW-jNeQC&view_op=list_works&gmla=AJsN-F4U7cnGG-ZhS6nIbr_qFthE7RpE5YiNYPE7iAIkhGB50DNaLA1JZxIyt8VJNuugMri2VvpIm03HGmmkLASSrcyyQS_cMDkuSyIqeVFVyrlPLI6De3E"
+  orcid            : "https://orcid.org/0000-0003-3885-0812"
 
 # Site Footer
 footer:
@@ -201,7 +205,6 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
-  - jemoji
 
 # mimic GitHub Pages with --safe
 whitelist:
