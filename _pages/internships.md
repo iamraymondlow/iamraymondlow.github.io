@@ -1,7 +1,9 @@
 ---
 layout: archive
 author_profile: true
-title: "Internship/Attachments"
+toc: true
+toc_label: 'Name'
+title: "Internship and Research Attachments"
 permalink: /internships/
 ---
 
