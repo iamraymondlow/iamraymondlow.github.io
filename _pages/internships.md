@@ -6,7 +6,7 @@ permalink: /internships/
 ---
 
 <div class="company_name">
-<img clas="company_icon" align="left" width="50" height="50" src="/assets/images/astar.png"> 
+<img class="company_icon" align="left" width="50" height="50" src="/assets/images/astar.png" style="top: -10px"> 
 <h2>
 Agency for Science Technology and Research
 </h2> 
@@ -20,7 +20,7 @@ Agency for Science Technology and Research
 
 
 <div class="company_name">
-<img class="company_icon" align="left" width="50" height="50" src="/assets/images/deloitte.png"> 
+<img class="company_icon" align="left" width="50" height="50" src="/assets/images/deloitte.png" style="top: 2px"> 
 <h2>
 Deloitte Digital
 </h2> 
@@ -67,7 +67,7 @@ Singapore Airlines Engineering Company
 
 
 <div class="company_name">
-<img class="company_icon" align="left" width="50" height="50" src="/assets/images/td.png" style="margin-right: 10px"> 
+<img class="company_icon" align="left" width="45" height="45" src="/assets/images/td.png" style="margin-right: 10px"> 
 <h2>
 Toronto Dominion Securities
 </h2> 
