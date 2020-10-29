@@ -5,8 +5,8 @@ title: "Internship/Attachments"
 permalink: /internships/
 ---
 
-<div>
-<img align="left" width="50" height="50" src="/assets/images/astar.png" style="margin-right: 10px"> 
+<div class="company_name">
+<img clas="company_icon" align="left" width="50" height="50" src="/assets/images/astar.png"> 
 <h2>
 Agency for Science Technology and Research
 </h2> 
@@ -19,8 +19,8 @@ Agency for Science Technology and Research
 * Worked on a geospatial point of interest and taxi trajectory dataset to perform land use classification using active learning algorithms and interpretable machine learning.
 
 
-<div>
-<img align="left" width="50" height="50" src="/assets/images/deloitte.png" style="margin-right: 10px; margin-top: 5px"> 
+<div class="company_name">
+<img class="company_icon" align="left" width="50" height="50" src="/assets/images/deloitte.png"> 
 <h2>
 Deloitte Digital
 </h2> 
@@ -34,8 +34,8 @@ Deloitte Digital
 * Facilitated daily stand-up sessions between project team and the client’s PMO team.
 
 
-<div>
-<img align="left" width="50" height="50" src="/assets/images/kpmg.jpg" style="margin-right: 10px"> 
+<div class="company_name">
+<img class="company_icon" align="left" width="50" height="50" src="/assets/images/kpmg.jpg" style="margin-right: 10px"> 
 <h2>
 KPMG
 </h2> 
@@ -50,8 +50,8 @@ KPMG
 * Acquired a strong understanding of the various Risk Management principles and standards (ISO 31000, COSO Framework). 
 
 
-<div>
-<img align="left" width="50" height="50" src="/assets/images/siaec.jpg" style="margin-right: 10px"> 
+<div class="company_name">
+<img class="company_icon" align="left" width="50" height="50" src="/assets/images/siaec.jpg" style="margin-right: 10px"> 
 <h2>
 Singapore Airlines Engineering Company
 </h2> 
@@ -66,8 +66,8 @@ Singapore Airlines Engineering Company
 * Acquired an understanding of the inner workings of a MRO from multiple perspectives.
 
 
-<div>
-<img align="left" width="50" height="50" src="/assets/images/td.png" style="margin-right: 10px"> 
+<div class="company_name">
+<img class="company_icon" align="left" width="50" height="50" src="/assets/images/td.png" style="margin-right: 10px"> 
 <h2>
 Toronto Dominion Securities
 </h2> 
