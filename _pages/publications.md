@@ -4,3 +4,88 @@ author_profile: true
 title: "Publications"
 permalink: /publications/
 ---
+
+
+<div>
+  <h2>
+    Manuscript (in-progress)
+  </h2>
+  
+  <div>
+    <h3>An End-to-End Point of Interest (POI) Conflation Framework</h3>
+    <h5>(with Zeynep Duygu Tekler, Kenny Tsu Wei Choo and Lucienne Blessing)</h5>
+    <h5><em>IEEE Transactions on Knowledge and Data Engineering, IEEE</em></h5>
+  </div>
+  
+  <div>
+    <h3>User Perceptions and Adoption of Plug Load Management Systems in the Workplace</h3>
+    <h5>(with Zeynep Duygu Tekler, Kenny Tsu Wei Choo and Lucienne Blessing)</h5>
+    <h5><em>The ACM CHI 2021 Conference on Human Factors in Computing Systems, Yokohama, Japan</em></h5>
+  </div>
+  
+  <div>
+    <h3>Perceptions on the Adoption of Smart Energy Management Systems for Plug Loads in the Workplace: Motivations, Concerns and Implications</h3>
+    <h5>(with Zeynep Duygu Tekler and Lucienne Blessing)</h5>
+    <h5><em>Energy Policy, Elsevier</em></h5>
+  </div>
+</div>
+
+<hr>
+
+<div>
+  <h2>
+    2020
+  </h2>
+  
+  <div>
+    <h3>Near-Real-Time Plug Load Identification using Low-Frequency Power Data in Office Spaces: Experiments and Applications</h3>
+    <h5>(with Zeynep Duygu Tekler, Yuren Zhou, Lucienne Blessing and Costas Spanos)</h5>
+    <h5><em>Applied Energy, Elsevier</em> <a href="https://www.researchgate.net/publication/342567838_Near-real-time_plug_load_identification_using_low-frequency_power_data_in_office_spaces_Experiments_and_applications">[Paper]</a></h5>
+  </div>
+  
+  <div>
+    <h3>Predicting Commercial Vehicle Parking Duration using Generative Adversarial Multiple Imputation Networks</h3>
+    <h5>(with Zeynep Duygu Tekler and Lynette Cheah)</h5>
+    <h5><em>Transportation Research Record: Journal of the Transportation Research Board, Sage Journals</em> <a href="https://www.researchgate.net/publication/342610218_Predicting_Commercial_Vehicle_Parking_Duration_using_Generative_Adversarial_Multiple_Imputation_Networks">[Paper]</a></h5>
+  </div>
+  
+  <div>
+    <h3>Commercial Vehicle Activity Prediction With Imbalanced Class Distribution Using a Hybrid Sampling and Gradient Boosting Approach</h3>
+    <h5>(with Linlin You and Lynette Cheah)</h5>
+    <h5><em>IEEE Transactions on Intelligent Transportation Systems, IEEE</em> <a href="https://www.researchgate.net/publication/339058671_Commercial_Vehicle_Activity_Prediction_With_Imbalanced_Class_Distribution_Using_a_Hybrid_Sampling_and_Gradient_Boosting_Approach">[Paper]</a></h5>
+  </div>
+  
+  <div>
+    <h3>A Scalable Bluetooth Low Energy Approach to Identify Occupancy Patterns and Profiles in Office Spaces</h3>
+    <h5>(with Zeynep Duygu Tekler, Burak Gunay, Rune Korsholm Andersen and Lucienne Blessing)</h5>
+    <h5><em>Building and Environment, ScienceDirect</em> <a href="https://www.researchgate.net/publication/338679517_A_Scalable_Bluetooth_Low_Energy_Approach_to_Identify_Occupancy_Patterns_and_Profiles_in_Office_Spaces">[Paper]</a></h5>
+  </div>
+  
+</div>
+
+<hr>
+
+<div>
+  <h2>
+    2019
+  </h2>
+  
+  <div>
+    <h3>An Alternative Approach to Monitor Occupancy using Bluetooth Low Energy Technology in an Office Environment</h3>
+    <h5>(with Zeynep Duygu Tekler and Lucienne Blessing)</h5>
+    <h5><em>Int. Conference on Climate Resilient Cities - Energy Efficiency & Renewables in Digital Era (CISBAT), Lausanne, Switzerland</em> <a href="https://www.researchgate.net/publication/337371393_An_alternative_approach_to_monitor_occupancy_using_bluetooth_low_energy_technology_in_an_office_environment">[Paper]</a></h5>
+  </div>
+  
+  <div>
+    <h3>Using Smart Technologies to Identify Occupancy and Plug-In Appliance Interaction Patterns in an Office Environment</h3>
+    <h5>(with Zeynep Duygu Tekler and Lucienne Blessing)</h5>
+    <h5><em>10th Int. Conference on Indoor Air Quality, Ventilation and Energy Conservation in Buildings (IAQVEC), Bari, Italy</em> <a href="https://www.researchgate.net/publication/336747517_Using_smart_technologies_to_identify_occupancy_and_plug-in_appliance_interaction_patterns_in_an_office_environment">[Paper]</a></h5>
+  </div>
+  
+  <div>
+    <h3>A Waste Management Behavioural Framework of Singapore’s Food Manufacturing Industry using Factor Analysis</h3>
+    <h5>(with Zeynep Duygu Tekler, Si Ying Chung, Jonathan Sze Choong Low and Lucienne Blessing)</h5>
+    <h5><em>26th CIRP Conference on Life Cycle Engineering (LCE), Purdue University, USA</em> <a href="https://www.researchgate.net/publication/332965871_A_Waste_Management_Behavioural_Framework_of_Singapore's_Food_Manufacturing_Industry_using_Factor_Analysis">[Paper]</a></h5>
+  </div>
+  
+</div>
