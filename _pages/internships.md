@@ -7,6 +7,21 @@ permalink: /internships/
 ---
 
 <div class="company_name">
+<img class="company_icon" align="left" width="50" height="50" src="/assets/images/p&g.jpeg" style="top: -10px"> 
+<h2>
+Procter & Gamble, Singapore
+</h2> 
+</div>
+
+**Location**: Singapore\
+**Period**: January 2021 to Present\
+*Intern, Data Science, Information Technology Function*
+* Developing a coin laundromat location screener that predicts store profitability based on nearby competitors, point of interest information, socio-demographics, nearby blockers, and store layout using XGBoost. 
+* Developed a web scrapper to estimate competitor revenue data based on machine operation status using AWS Lambda.
+* Led weekly updates with business units on model development progress.
+
+
+<div class="company_name">
 <img class="company_icon" align="left" width="50" height="50" src="/assets/images/astar.png" style="top: -10px"> 
 <h2>
 Agency for Science Technology and Research
@@ -14,10 +29,10 @@ Agency for Science Technology and Research
 </div>
 
 **Location**: Singapore\
-**Period**: March 2020 to Present (Ongoing)\
+**Period**: March 2020 to July 2020\
 *Visiting Researcher, Institute for Infocomm Research (I2R), Machine Intellection*
-* Developing a reinforcement learning algorithm to perform active learning using Pytorch to address sparsely labelled datasets.
-* Worked on a geospatial point of interest and taxi trajectory dataset to perform land use classification using active learning algorithms and interpretable machine learning.
+* Developed a metaheuristic active learning strategy selection model using Deep Reinforcement Learning to ensure robust performance across heterogeneous datasets.
+* Conducted an exploratory study on land use classification by combining geospatial point of interest and taxi trajectory datasets with Active Learning and Interpretable Machine Learning.
 
 
 <div class="company_name">
@@ -31,7 +46,7 @@ Deloitte Digital
 **Period**: February 2017 to July 2017 (6 months)\
 *Intern, Project Management & Change Management, Management Consulting*
 * Worked on a major digital transformation project with one of Asia’s largest real estate companies.
-* Maintained the project’s RAID log, Decision log, and Action log during his stint in the PMO team.
+* Maintained the project’s RAID log, Decision log, and Action log during my stint in the Project Management Office team.
 * Facilitated daily stand-up sessions between project team and the client’s PMO team.
 
 
