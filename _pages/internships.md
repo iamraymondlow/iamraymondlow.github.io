@@ -3,7 +3,7 @@ layout: single
 author_profile: true
 classes: wide
 title: "Work Experience and Research Attachments"
-permalink: /workexperience/
+permalink: /internship/
 ---
 
 <div class="company_name">
