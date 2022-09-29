@@ -2,9 +2,26 @@
 layout: single
 author_profile: true
 classes: wide
-title: "Internship and Research Attachments"
-permalink: /internships/
+title: "Work Experience and Research Attachments"
+permalink: /workexperience/
 ---
+
+<div class="company_name">
+<img class="company_icon" align="left" width="50" height="50" src="/assets/images/shopee.jpeg" style="top: -10px"> 
+<h2>
+Shopee Private Limited, Singapore
+</h2> 
+</div>
+
+**Location**: Singapore\
+**Period**: September 2021 to September 2022\
+*Data Scientist/Algorithm Engineer, Maps Team*
+* Developed and deployed highly performant and scalable Autocomplete and Ranking systems using LightGBM and TensorFlow Ranking to support the company's in-house map search service.
+* Led to a 12% performance improvement across various offline and online ranking evaluation metrics.
+* Possessed hands-on experience in conducting load testing and designing A/B tests to evaluate online ML models.
+* Developed highly robust data engineering pipelines using PySpark and AirFlow to process daily user tracker data.
+
+
 
 <div class="company_name">
 <img class="company_icon" align="left" width="50" height="50" src="/assets/images/p&g.jpeg" style="top: -10px"> 

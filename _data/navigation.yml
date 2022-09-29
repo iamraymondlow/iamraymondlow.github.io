@@ -1,10 +1,10 @@
 # main links
 main:
+  - title: "Work Experience/Attachments"
+      url: /workexperience/
   - title: "Publications"
     url: /publications/
   - title: "Projects"
     url: /projects/
-  - title: "Internships/Attachments"
-    url: /internships/
   - title: "Awards"
     url: /awards/
