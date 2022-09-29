@@ -7,7 +7,7 @@ permalink: /internship/
 ---
 
 <div class="company_name">
-<img class="company_icon" align="left" width="50" height="50" src="/assets/images/shopee.jpeg" style="top: -10px"> 
+<img class="company_icon" align="left" width="50" height="50" src="/assets/images/shopee.png" style="top: -10px"> 
 <h2>
 Shopee Private Limited, Singapore
 </h2> 
